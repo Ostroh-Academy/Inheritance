@@ -1,0 +1,14 @@
+D:\ОА\Патерни проектування\Patterns\Laboratory3\bin\Debug\net8.0\Laboratory3.exe
+D:\ОА\Патерни проектування\Patterns\Laboratory3\bin\Debug\net8.0\Laboratory3.deps.json
+D:\ОА\Патерни проектування\Patterns\Laboratory3\bin\Debug\net8.0\Laboratory3.runtimeconfig.json
+D:\ОА\Патерни проектування\Patterns\Laboratory3\bin\Debug\net8.0\Laboratory3.dll
+D:\ОА\Патерни проектування\Patterns\Laboratory3\bin\Debug\net8.0\Laboratory3.pdb
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.AssemblyInfoInputs.cache
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.AssemblyInfo.cs
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.csproj.CoreCompileInputs.cache
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.dll
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\refint\Laboratory3.dll
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.pdb
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\Laboratory3.genruntimeconfig.cache
+D:\ОА\Патерни проектування\Patterns\Laboratory3\obj\Debug\net8.0\ref\Laboratory3.dll
