@@ -17,7 +17,15 @@ public class SystemOfEquations
         {
             for (int j = 0; j < coefficients.GetLength(1); j++)
             {
-                Console.Write($"{coefficients[i, j]} * x{j + 1} ");
+            
+                if (j != coefficients.GetLength(1) - 1)
+                {
+                    Console.Write($"{coefficients[i, j]} * x{j + 1} + ");
+                }
+                else
+                {
+                    Console.Write($"{coefficients[i, j]} * x{j + 1} ");
+                }
             }
             Console.WriteLine($"= {terms[i]}");
         }

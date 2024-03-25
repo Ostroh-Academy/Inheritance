@@ -29,7 +29,7 @@ internal class Program
         system3x3.PrintEquationSystem();
        
 
-        Console.WriteLine($"Вектор x = ({x2x2[0]}, {x2x2[1]}) {(system2x2.CheckVectorSatisfies(x2x2) ? "задовольняє" : "не задовольняє")} системі рівнянь 2х2.");
+        Console.WriteLine($"Вектор x = ({x2x2[0]}, {x2x2[1]}) {(system2x2.CheckVectorSatisfies(x2x2) ? "задовольняє" : "не задовольняє")} систему рівнянь 2х2.");
         Console.WriteLine($"Вектор x = ({x3x3[0]}, {x3x3[1]}, {x3x3[2]}) {(system3x3.CheckVectorSatisfies(x3x3) ? "задовольняє" : "не задовольняє")} СЛАР 3х3.");
     }
 }
