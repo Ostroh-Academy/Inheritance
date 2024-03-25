@@ -8,4 +8,8 @@
     </PropertyGroup>
 
 
+    <ItemGroup>
+      <Content Include="obj\img\uml-diagram.png" />
+    </ItemGroup>
+
 </Project>
