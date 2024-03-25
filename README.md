@@ -7,3 +7,7 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму ієрархії класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+
+![image](https://github.com/Ostroh-Academy/03-inheritance-junarik/assets/113181044/5e980006-9158-41e5-884b-56a88bd3bc28)
+https://github.com/Ostroh-Academy/03-inheritance-junarik/blob/main/Diagram.png
