@@ -18,4 +18,4 @@
 
 Лабораторна робота показала принципи наслідування класів в мові програмування C# та їх використання для реалізації спільної функціональності та розширення можливостей класів.
 
-## [Посилання на UML діаграму] (https://github.com/Marian-Zharchynskyi/03-inheritance-Marian-Zharchynskyi/blob/main/UML%20class%20diagram.png)
+## [Посилання на UML діаграму](https://github.com/Marian-Zharchynskyi/03-inheritance-Marian-Zharchynskyi/blob/main/UML%20class%20diagram.png)
