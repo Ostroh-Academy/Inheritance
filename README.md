@@ -8,5 +8,5 @@
 6.	Нарисувати UML діаграму ієрархії класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
 
-##UML
+#UML
 ![image](https://github.com/olehSokalskyi/03-inheritance-olehSokalskyi/assets/162996249/a60e6766-f0f2-4d20-89f8-f2965e4d8f09)
