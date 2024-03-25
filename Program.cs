@@ -4,12 +4,12 @@
     {
         public interface I2DShape
         {
-            double getArea();
+            double GetArea();
         }
 
         public interface I3DShape
         {
-            double getVolume();
+            double GetVolume();
         }
 
         public class AreaCoord
@@ -26,7 +26,7 @@
         {
             public Tuple<AreaCoord, AreaCoord, AreaCoord> Coord { get; set; } = coord;
 
-            public double getArea()
+            public double GetArea()
             {
                 double sideA = Coord.Item1 % Coord.Item2;
                 double sideB = Coord.Item2 % Coord.Item3;
@@ -37,7 +37,7 @@
                 return Math.Sqrt(s * (s - sideA) * (s - sideB) * (s - sideC));
             }
 
-            public override string ToString() => $"Area: {getArea()}";
+            public override string ToString() => $"Area: {GetArea()}";
             //$"first: [{Coord.Item1.X};{Coord.Item1.Y};{Coord.Item1.Z}] second: [{Coord.Item2.X};{Coord.Item2.Y};{Coord.Item2.Z}] third: [{Coord.Item3.X};{Coord.Item3.Y};{Coord.Item3.Z}]|square: {getArea()}";
         }
 
@@ -45,7 +45,7 @@
         {
             public Tuple<AreaCoord, AreaCoord, AreaCoord, AreaCoord> Coord { get; set; } = coord;
 
-            public double getVolume() => Math.Abs(
+            public double GetVolume() => Math.Abs(
             1.0 / 6.0 * (
                 Coord.Item1.X * (Coord.Item2.Y * Coord.Item3.Z - Coord.Item3.Y * Coord.Item2.Z) +
                 Coord.Item2.X * (Coord.Item3.Y * Coord.Item4.Z - Coord.Item4.Y * Coord.Item3.Z) +
@@ -53,7 +53,7 @@
                 Coord.Item4.X * (Coord.Item1.Y * Coord.Item2.Z - Coord.Item2.Y * Coord.Item1.Z)
             ));
 
-            public override string ToString() => $"Volume: {getVolume()}";
+            public override string ToString() => $"Volume: {GetVolume()}";
         }
 
         static void Main(string[] args)
