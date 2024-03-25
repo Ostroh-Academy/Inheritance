@@ -26,16 +26,15 @@ var triangle = new Triangle();
 var tetrahedron = new Tetrahedron();
 
 triangle.SetCoordinates(point1, point2, point3);
-Console.WriteLine($"Triangle: \n\n{triangle.PrintCoordinates()}");
-Console.WriteLine($"Area of the triangle: {triangle.CalculateArea():F2}");
+Console.WriteLine("Triangle: \n\n{triangle.PrintCoordinates()}");
+Console.WriteLine("Area of the triangle: {triangle.CalculateArea():F2}");
         
 tetrahedron.SetCoordinates(point1, point2, point3, point4);
-Console.WriteLine($"\nTetrahedron: \n\n{tetrahedron.PrintCoordinates()}");
-Console.WriteLine($"Volume of the tetrahedron: {tetrahedron.CalculateArea():F2}");
+Console.WriteLine("\nTetrahedron: \n\n{tetrahedron.PrintCoordinates()}");
+Console.WriteLine("Volume of the tetrahedron: {tetrahedron.CalculateArea():F2}");
 ```
 
 
 ## UML діаграма
 
-![uml-diagram.png](obj%2Fimg%2Fuml-diagram.png)
-
+<img alt="uml-diagram.png" src="img/uml-diagram.png"/>
