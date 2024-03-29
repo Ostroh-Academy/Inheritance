@@ -14,3 +14,4 @@
 ---
 
 ### UML діаграма 
+![image](https://github.com/Roman-Davidyuk/03-Roman-Davidyuk/assets/145706234/39d471f5-74b5-46b6-bea8-7e673443888a)
