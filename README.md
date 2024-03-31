@@ -6,4 +6,6 @@
  (https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions , https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names )
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму ієрархії класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
-7.	Зробити pull request.
+![UML class diagram](https://github.com/Ostroh-Academy/03-inheritance-AndrewYAG/assets/102692439/795f1b85-ac53-41f9-85f4-850bd393b75c)
+
+8.	Зробити pull request.
