@@ -1,0 +1,14 @@
+D:\code\3course\PP\PP_lab3\PP_lab3\bin\Debug\net8.0\PP_lab3.exe
+D:\code\3course\PP\PP_lab3\PP_lab3\bin\Debug\net8.0\PP_lab3.deps.json
+D:\code\3course\PP\PP_lab3\PP_lab3\bin\Debug\net8.0\PP_lab3.runtimeconfig.json
+D:\code\3course\PP\PP_lab3\PP_lab3\bin\Debug\net8.0\PP_lab3.dll
+D:\code\3course\PP\PP_lab3\PP_lab3\bin\Debug\net8.0\PP_lab3.pdb
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.AssemblyInfoInputs.cache
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.AssemblyInfo.cs
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.csproj.CoreCompileInputs.cache
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.dll
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\refint\PP_lab3.dll
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.pdb
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\PP_lab3.genruntimeconfig.cache
+D:\code\3course\PP\PP_lab3\PP_lab3\obj\Debug\net8.0\ref\PP_lab3.dll
