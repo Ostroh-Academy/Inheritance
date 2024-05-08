@@ -7,3 +7,6 @@
 5.	Завантажити код програми на GitHub у репозиторій заданий викладачем.
 6.	Нарисувати UML діаграму ієрархії класів у зручному редакторі та долучити її в README файл репозиторію у вигляді рисунка.
 7.	Зробити pull request.
+
+
+![img](https://github.com/Ostroh-Academy/03-inheritance-Dianaperepelytsia/assets/92035015/554db8b6-43ef-4b2e-9bdd-75c65dc74db0)
