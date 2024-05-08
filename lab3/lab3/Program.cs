@@ -2,7 +2,7 @@
 
 public class Sphere
 {
-    protected double a, b, c, R; // Змінивши на protected, ми дозволяємо доступ до цих полів у похідних класах
+    protected double a, b, c, R; 
 
     public Sphere(double a, double b, double c, double R)
     {
@@ -20,7 +20,7 @@ public class Sphere
         this.R = R;
     }
 
-    public virtual void PrintCoefficients() // Позначаємо як virtual, щоб дозволити перевизначення в похідних класах
+    public virtual void PrintCoefficients() 
     {
         Console.WriteLine("a = {0}", a);
         Console.WriteLine("b = {0}", b);
@@ -79,6 +79,5 @@ class Program
         double ellipsoidVolume = ellipsoid.GetVolume();
         Console.WriteLine("Ellipsoid Volume: {0}", ellipsoidVolume);
 
-        Console.ReadLine(); // Щоб утримати консольне вікно відкритим
-    }
+        Console.ReadLine(); 
 }
