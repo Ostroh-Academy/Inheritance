@@ -1,2 +1,16 @@
-- [UML діаграма](https://github.com/Artem-Pylhun/03-inheritance-Artem-Pylhun/blob/main/UML%20diagram.png)
-- [Код класів](https://github.com/Artem-Pylhun/03-inheritance-Artem-Pylhun/blob/main/Program.cs)
+# Наслідування
+
+## Варіанти індивідуального завдання
+![image](https://github.com/Artem-Pylhun/03-inheritance-Artem-Pylhun/assets/145591080/3fcc0078-82af-4bdf-bb1d-2f827b5476bd)
+
+
+## Виконання завдання
+<p>Спочатку було ознайомлено з теоретичним матеріалом, зокрема з поняттям наслідування.
+  Наслідування, успадкування (англ. inheritance) — один з принципів об'єктно-орієнтовного програмування, який дає класу можливість використовувати програмний код іншого (базового) класу, доповнюючи його своїми власними деталями реалізації. Іншими словами, під час наслідування відбувається отримання нового (похідного) класу, який містить програмний код базового класу з зазначенням власних особливостей використання. 
+</p>
+
+## Код програми
+[Код програми](https://github.com/Artem-Pylhun/03-inheritance-Artem-Pylhun/blob/main/Program.cs)
+
+## UML діаграма власного завдання:
+[UML діаграма](https://github.com/Artem-Pylhun/03-inheritance-Artem-Pylhun/blob/main/UML%20diagram.png)
